@@ -2,6 +2,8 @@
 
 <img width="499" alt="Screenshot" src="https://github.com/0x15fsec/Cryptoclipper/assets/136651383/ba31858f-80aa-4112-85de-d4c2c97e445d">
 
+My discord: 0x15#4420
+
 If you don't know what a bitcoin clipper is, let me explain. Basically, when this bitcoin clipper is installed on your computer, everytime you copy/paste a bitcoin address, it will change into that hacker's bitcoin address, and you might send the money to the hacker instead of the person you actually wanted to send to. And since many people don't check their addresses after sending, this clipper is very easy for hackers to use, very effective for them, and very disastrous for those who fall for it. Also it is considerably less likely to be detected by AV than other keyloggers/RATs/malware.
 
 -coded entirely in C++
